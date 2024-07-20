@@ -21,7 +21,7 @@ Welcome to the Contacts App! This application is designed to provide a user-frie
 
 ## Demo Video
 
-Check out our [Promo Video](https://github.com/MalakAmgad/ContactApp/blob/master/ContactApp_Promo.mp4) 
+Check out our [Promo Video](https://github.com/MalakAmgad/ContactApp/ContactApp_Promo.mp4) 
 to see the app in action!
 
 ## Getting Started
