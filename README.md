@@ -21,7 +21,7 @@ Welcome to the Contacts App! This application is designed to provide a user-frie
 
 ## Demo Video
 
-Check out our ![Promo Video](https://github.com/user-attachments/assets/b45045dd-b879-4aa7-bb38-fe122a33620d) 
+Check out our ![Promo Video](https://vimeo.com/987737271?share=copy) 
 to see the app in action!
 
 ## Getting Started
