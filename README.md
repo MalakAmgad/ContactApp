@@ -1,7 +1,7 @@
 
 # Contacts App
 
-![Contacts App](https://github.com/MalakAmgad/ContactApp/blob/master/Android%20Emulator%20-%20Android_13_5554%202024-07-20%2021-58-37.mp4)
+![App Icon](https://github.com/MalakAmgad/ContactApp/blob/master/Android%20Emulator%20-%20Android_13_5554%202024-07-20%2021-58-37.mp4)
 
 ## Overview
 
