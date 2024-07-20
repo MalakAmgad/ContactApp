@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="title">Contact App</string>
+    <string name="Contact1">Auntie</string>
+    <string name="Contact2">Brother</string>
+    <string name="Contact3">Daughter</string>
+    <string name="Contact4">Friend 1</string>
+    <string name="Contact5">Friend 2</string>
+    <string name="Contact6">Grandfather</string>
+    <string name="Contact7">Granny</string>
+    <string name="Contact8">Neighbour</string>
+    <string name="Contact9">Sister</string>
+    <string name="Contact10">Son</string>
+    <string name="Contact11">Uncle</string>
+    <string name="numContact1">+201012345678</string>
+    <string name="numContact2">+201123456789</string>
+    <string name="numContact3">+201234567890</string>
+    <string name="numContact4">+201345678901</string>
+    <string name="numContact5">+201456789012</string>
+    <string name="numContact6">+201567890123</string>
+    <string name="numContact7">+201678901234</string>
+    <string name="numContact8">+201789012345</string>
+    <string name="numContact9">+201890123456</string>
+    <string name="numContact10">+20125793462</string>
+    <string name="numContact11">+01126352891</string>
+    <string name="Homenum">+201890987456</string>
+</resources>
