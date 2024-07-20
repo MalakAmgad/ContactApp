@@ -21,9 +21,13 @@ Welcome to the Contacts App! This application is designed to provide a user-frie
 
 ## Demo Video
 
-Watch the full video on Vimeo:
+## Demo Video
 
-[![Watch the video](https://vumbnail.com/987737271.jpg)](https://vimeo.com/987737271)
+Check out our Promo Video to see the app in action!
+
+![Promo Video](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/061b2b67-f166-489a-acd7-fc0844f061d4.gif?ClientID=sulu&Date=1721507626&Signature=31a47b0dc4df47ede5e34c3a6182d296dc41da75)
+
+[Watch the full video](https://vimeo.com/987737271)
 
 
 ## Getting Started
