@@ -1,6 +1,3 @@
-Sure! Here is an interesting README for your Contacts App project:
-
----
 
 # Contacts App
 
@@ -24,7 +21,7 @@ Welcome to the Contacts App! This application is designed to provide a user-frie
 
 ## Demo Video
 
-Check out our [Promo Video](promo-video-link) to see the app in action!
+Check out our [Promo Video](https://github.com/MalakAmgad/ContactApp/blob/master/Android%20Emulator%20-%20Android_13_5554%202024-07-20%2021-58-37.mp4) to see the app in action!
 
 ## Getting Started
 
@@ -69,7 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Android Developers](https://developer.android.com)
-
----
-
-Feel free to replace the placeholder links and image paths with actual URLs and paths from your project. If you have any other specific sections you want to include, let me know!
