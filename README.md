@@ -21,8 +21,10 @@ Welcome to the Contacts App! This application is designed to provide a user-frie
 
 ## Demo Video
 
-Check out our [Promo Video](https://vimeo.com/987737271) 
+Check out our ![Promo Video](https://vumbnail.com/987737271.jpg) 
 to see the app in action!
+
+[Watch the full video](https://vimeo.com/987737271)
 
 ## Getting Started
 
